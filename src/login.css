@@ -1,0 +1,4 @@
+.login-button { display: block; width: 100%; }
+@media (max-width: 360px) {
+  .login-button { margin: 0 auto; padding: 12px 0; }
+}
