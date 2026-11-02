@@ -2,3 +2,6 @@
 @media (max-width: 360px) {
   .login-button { margin: 0 auto; padding: 12px 0; }
 }
+@media (max-width: 320px) {
+  .login-button { font-size: 14px; }
+}
